@@ -118,11 +118,23 @@ Now I'm going to add the LEDs. You have the option of putting them on top or bot
 
 ![After adding the LEDs](pics/P1050924.JPG)
 
+## A monarch needs legs
 
+After everything else is mounted it's finally time to add the legs. I've decided to to make the legs long and with sharply bent feet.
 
+![Feeting](pics/P1050925.JPG)
+![On its feet](pics/P1050926.JPG)
 
+## Last step: the antennas
 
+The antennas need some special attention. I've first straightened the single piece of 16cm wire and cut it exactly in two halves. Then I soldered them both onto the board and then curled them in...
 
+![Two straight wires](pics/P1050929.JPG)
+![And then adding the curls](pics/P1050930.JPG)
 
+## Firing it up
 
+Now after putting all the chips and a battery in, let's see it in action...
 
+![Simple test](pics/P1050931.JPG)
+![Mugshot](pics/P1050938.JPG)

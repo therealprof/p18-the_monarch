@@ -97,7 +97,7 @@ At the top we're going to solder the remaining resistor and more clippings now:
 
 In this build I decided to put the LEDs at the bottom and as close as possible to the board, so I clipped the legs of the LEDs at about 2mm.
 
-![LEDs clipped](pics/P1050919.JPG)
+![LEDs clipped](pics/P1050918.JPG)
 
 ## Soldering the SMD parts
 
